@@ -2,6 +2,7 @@ E-Commerce Back End
 This project provides a backend for an e-commerce website using Express.js, Sequelize, and PostgreSQL. It features a RESTful API for managing categories, products, tags, and product-tag associations.
 
 Table of Contents
+
 Project Overview
 Technologies Used
 Getting Started
@@ -16,10 +17,12 @@ Tags
 Testing
 Contributing
 License
+
 Project Overview
 This backend API allows management of an e-commerce store's categories, products, and tags. It uses Sequelize to interact with a PostgreSQL database, and Express.js to handle HTTP requests.
 
 Technologies Used
+
 Node.js: JavaScript runtime for building server-side applications.
 Express.js: Web framework for building RESTful APIs.
 Sequelize: Promise-based ORM for Node.js to interact with PostgreSQL.
@@ -30,11 +33,11 @@ Prerequisites
 Node.js and npm installed.
 PostgreSQL installed and running.
 Installation
-Clone the repository:
+Clone the repository: https://github.com/alisha1025/ecommerce-backend.git
 
 bash
 Copy code
-git clone <repository-url>
+git clone <https://github.com/alisha1025/ecommerce-backend.git>
 cd <project-directory>
 Install dependencies:
 
